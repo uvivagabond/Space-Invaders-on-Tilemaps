@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21f089269ac7d5c46a62b46a1ace92cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - missileForStarship: {fileID: 2239591729056689720, guid: f063bef426b58a44fb8b5a7a10d5afd0,
+      type: 3}
+  - missileForEnemies: {fileID: 2239591729056689720, guid: 86cb2fb317e999443ab73a90d650c491,
+      type: 3}
+  executionOrder: 0
+  icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
